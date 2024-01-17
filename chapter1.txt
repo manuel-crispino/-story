@@ -1,1 +1,2 @@
-it was the best time , it was the worst time.
+it was the best time , it was the worst time. 
+i an trying to practice the Git in my Terminal this is why i am writing this text .
