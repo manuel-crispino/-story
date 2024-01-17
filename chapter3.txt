@@ -1,1 +1,2 @@
 hallo this is chapter 3 , this is the third chapter .
+this is chapter 3 modified from the original branch i am practicing Git in vs studio .
